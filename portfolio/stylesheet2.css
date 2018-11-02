@@ -1,38 +1,66 @@
+
+img.alotofthings {
+    border: 1px solid #e2e2e2;
+}
+
 table {
-    position:relative;
+    
+   position:relative;
     top:-30px;
     left: 955px;
     font-family: 'Press Start 2P', cursive;
-    font-size: 10px;
+    font-size: 9px;
 }
 
 p {
-    line-height: 1.5;
+    
+    margin-left: 200px;
+      line-height: 1.5;
     position:relative;
     top:-20px;
-    left: 200px;
+/*    left: 200px;*/
     font-size: 12px;
     font-family: 'Roboto Mono', monospace;
     text-align: left;
 }
 
+.bodypara {
+    margin-top: 50px;
+    margin-right: 750px;
+    margin-bottom: 50px;
+}
+
 h2 {
-    
+   
+    margin-left: 200px;
+  
     position:relative;
     top:-10px;
-    left: 200px;
+/*    left: 200px;*/
     font-family: 'Roboto Mono', monospace;
-text-align: left;
+text-align: left; 
     
 }
 
 h3 {
+    
+   margin-left: 200px;
     line-height:1.5;
     position:relative;
     top:-30px;
-    left: 200px;
+/*    left: 200px;*/
     font-size:15px;
     font-family: 'Roboto Mono', monospace;
     text-align: left;
+  
 
 }
+
+.sweet {
+    
+    position: absolute;
+    margin-left: 500px;
+    top: 140px;
+    z-index: -1;
+}
+
